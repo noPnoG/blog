@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "051735d4015fdb37",
+    "type": "split",
+    "children": [
+      {
+        "id": "da7c530c174281a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/设计模式/发布订阅模式.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cdbad28acf9cce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f133c670972ae9b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b73f925840e04e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2347543039915b71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8809fb71eab258bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c3f17423cd7eaf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "810dafc4b9271dce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/设计模式/发布订阅模式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "da7c530c174281a3",
+  "lastOpenFiles": [
+    "notes/设计模式/发布订阅模式.md",
+    "notes/浏览器/浏览器的同源策略.md",
+    "notes/设计模式/迭代器模式.md",
+    "notes/工程化/eslint.md",
+    "notes/javaScript/设计模式.md",
+    "README.md",
+    "notes/常用工具及指令/MarkDown.md",
+    "notes/javaScript/js.md"
+  ]
+}
