@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da7c530c174281a3",
+        "id": "2606262b3733a780",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/设计模式/发布订阅模式.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/设计模式/发布订阅模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +82,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da7c530c174281a3",
+  "active": "2606262b3733a780",
   "lastOpenFiles": [
-    "notes/设计模式/发布订阅模式.md",
+    "README.md",
     "notes/浏览器/浏览器的同源策略.md",
+    "notes/设计模式/发布订阅模式.md",
     "notes/设计模式/迭代器模式.md",
     "notes/工程化/eslint.md",
     "notes/javaScript/设计模式.md",
-    "README.md",
     "notes/常用工具及指令/MarkDown.md",
     "notes/javaScript/js.md"
   ]
