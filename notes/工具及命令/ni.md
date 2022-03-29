@@ -13,7 +13,7 @@
 ### 安装
 
 ```dos
-npm i -g @anfu/ni
+npm i -g @antfu/ni
 ```
 
 ### ni-install
