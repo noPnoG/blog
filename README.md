@@ -9,7 +9,7 @@
 ## 浏览器相关
 - 相关文章
   - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)详细介绍了浏览器的工作原理
-- [浏览器的同源策略](浏览器的同源策略.md)
+- [跨域资源共享](跨域资源共享.md)
 ## 前端工程化
 - 相关文章
     - [深入浅出Webpack](http://webpack.wuhaolin.cn/)

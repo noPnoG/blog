@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2606262b3733a780",
+        "id": "65f0026e433e65a7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/工程化/eslint.md",
+            "file": "notes/javaScript/js.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208
   },
   "right": {
     "id": "8809fb71eab258bd",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/工程化/eslint.md",
+                "file": "notes/javaScript/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2606262b3733a780",
+  "active": "65f0026e433e65a7",
   "lastOpenFiles": [
+    "notes/javaScript/js.md",
+    "output/面试.md",
+    "notes/浏览器/跨域.md",
+    "notes/浏览器/跨域资源共享.md",
+    "notes/css/BFC.md",
     "notes/工程化/eslint.md",
     "notes/工具及命令/git命令.md",
     "README.md",
-    "notes/浏览器/浏览器的同源策略.md",
     "notes/设计模式/发布订阅模式.md",
-    "notes/设计模式/迭代器模式.md",
-    "notes/javaScript/设计模式.md",
-    "notes/常用工具及指令/MarkDown.md",
-    "notes/javaScript/js.md"
+    "notes/设计模式/迭代器模式.md"
   ]
 }
