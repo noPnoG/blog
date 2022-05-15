@@ -62,3 +62,11 @@ git rm 命令后面可以列出文件或者目录的名字，也可以使用 glo
 `git reset HEAD <file>`取消暂存的文件
 
 `git checkout -- CONTRIBUTING.md`**谨慎使用**撤销对文件的修改，文件在本地的任何修改都会消失，
+
+## 分支
+
+`git branch` 后面跟名字创建分支，不跟名字列出分支列表
+`git checkout` 切换分支
+`git checkout -b <newbranchname>`创建并切换
+`git branch -d hotfix` 删除分支
+`git merge hotfix` 合并分支
