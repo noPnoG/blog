@@ -71,6 +71,15 @@ const myCanvas = document.getElementById("main_canvas") as HTMLCanvasElement;
 const myCanvas = <HTMLCanvasElement>document.getElementById("main_canvas");
 ```
 
+## function Type Expressions
+
+```typescript
+function greeter(fn: (a: string) => void) {
+  fn("Hello, World");
+}
+// (a: string) => void意思是一个有一个名为a的string类型的参数，并且无返回值的函数
+```
+
 ## tsconfig.json
 
 - `noImplicitAny` 当设为true时，将在某一变量被隐式的推断为any类型时抛出一个错误
