@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>grid</title>
+  <style>
+    .grid{
+      gap: 10px;
+      height: 1000px;
+      display: flex;
+      flex-wrap: wrap;
+      width: 300px;
+      /* grid-auto-columns:200px; */
+    }
+    .grid > div{
+      background: #eee;
+      padding: 10px;
+      font-size: 20px;
+      flex: 1 1 100px;
+    }
+    .one{
+      /* width: 500px; */
+      /* position: absolute; */
+      /* left: 100px; */
+      float: left;
+    }
+  </style>
+</head>
+<body>
+  <div class="grid">
+    <div class="one">one</div>
+    <div>two</div>
+    <div>three</div>
+    <div>four</div>
+    <div>five</div>
+    <div>six</div>
+  </div>
+</body>
+</html>
